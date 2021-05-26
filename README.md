@@ -15,7 +15,7 @@ Few other time series forecasting models could have been used as the weekly sale
 # Classifier
 Here we have implemented RandomForet Classifier as a small example to get better acuracy
 
-##Libraries
+# Libraries
 Libraries such as numpy, pandas, matplotlib, numpy, sklearn have been used
 
 # Conclusion: 
