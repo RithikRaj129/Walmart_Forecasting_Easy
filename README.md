@@ -17,6 +17,25 @@ Here we have implemented RandomForet Classifier as a small example to get better
 
 # Libraries
 Libraries such as numpy, pandas, matplotlib, numpy, sklearn have been used
+ <h2>Usage :</h2>
+ <ul>
+  <li>Download my Repository</li>
+  <li>Open your Command Prompt or Terminal and change directory to the folder where all the files are present.</li>
+  <li><b>Detecting Gender and Age of face in Image</b> Use Command :</li>
+  
+      python detect.py --image <image_name>
+</ul>
+  <p><b>Note: </b>The Image should be present in same folder where all the files are present</p> 
+<ul>
+  <li><b>Detecting Gender and Age of face through webcam</b> Use Command :</li>
+  
+      python detect.py
+</ul>
+<ul>
+  <li>Press <b>Ctrl + C</b> to stop the program execution.</li>
+</ul>
+
+
 
 # Conclusion: 
 In conclusion, we find that our regression equation is quite accurate (with better accuracy) in predicting the weekly sales. Walmart can use it to forecast the sales better. They need to focus on the inventory planning of key departments like 38,92 and 95. They need to overhaul the Markdowns that are given currently as they are not having the intended impact on sales. They need to focus on the year-end inventory as week 51 and 52 play a crucial part in predicting sales.
