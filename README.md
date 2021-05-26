@@ -12,11 +12,11 @@ The key issues that we have faced in this analysis is the large dataset that res
 
 Few other time series forecasting models could have been used as the weekly sales is highly dependent on the past year. Moreover, ARIMA modelling techniques like exponential smoothening and holt winters could have helped us capture the seasonality in the model in a better way. Furthermore, ARIMAX model would have enabled us to have an accurate time series model based on previous weeks of data as well as factor in few important variables like holiday and department type to get an even better accuracy.
 
-##Classifier
+# Classifier
 Here we have implemented RandomForet Classifier as a small example to get better acuracy
 
 ##Libraries
 Libraries such as numpy, pandas, matplotlib, numpy, sklearn have been used
 
-## Conclusion: 
+# Conclusion: 
 In conclusion, we find that our regression equation is quite accurate (with better accuracy) in predicting the weekly sales. Walmart can use it to forecast the sales better. They need to focus on the inventory planning of key departments like 38,92 and 95. They need to overhaul the Markdowns that are given currently as they are not having the intended impact on sales. They need to focus on the year-end inventory as week 51 and 52 play a crucial part in predicting sales.
